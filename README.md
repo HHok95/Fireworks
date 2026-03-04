@@ -17,7 +17,7 @@ This project demonstrates:
 
 Add your deployed URL here once published:
 
-- `https://<your-username>.github.io/fireworks`
+- `https://hhok95.github.io/fireworks`
 
 ## Project Goals
 
